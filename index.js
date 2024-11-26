@@ -1,0 +1,1 @@
+'CREATE VIEW unforgettableName AS SELECT someColunm FROM anyTable;'

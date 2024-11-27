@@ -1,1 +1,3 @@
-'CREATE VIEW unforgettableName AS SELECT someColunm FROM anyTable;'
+'CREATE VIEW unforgettableName AS SELECT someColumn FROM anyTable;'
+
+'CREATE MATERIALIZED VIEW hardToForgetName AS SELECT someColumn FROM anyTable;'
